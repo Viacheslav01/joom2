@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gifs_list_span_count">2</integer>
+    <dimen name="gifs_list_separator_size">16dp</dimen>
+    <dimen name="gifs_list_horizontal_padding">8dp</dimen>
+</resources>
